@@ -145,6 +145,7 @@ if __name__ == "__main__":
     print("Model trained and stored at feedforwardnet.pth")
 ```
 ## Step3
+```python
 MNIST dataset downloaded
 Using cpu device
 Epoch 1
@@ -179,3 +180,4 @@ Loss: 1.4729899168014526
 -------------------------------
 Training is done.
 Model trained and stored at feedforwardnet.pth
+```
