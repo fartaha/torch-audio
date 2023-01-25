@@ -9,3 +9,9 @@ Urban sound classification project
 ++ Spectograms
 
 ++ Mel Spectograms
+
+## Step1
+installing torch, torch audio, torchvision
+```console
+pip install torch torchaudio torchvision
+```
