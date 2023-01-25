@@ -145,6 +145,7 @@ if __name__ == "__main__":
     print("Model trained and stored at feedforwardnet.pth")
 ```
 ## Step3
+```python
 MNIST dataset downloaded
 Using cpu device
 Epoch 1
@@ -179,6 +180,7 @@ Loss: 1.4729899168014526
 -------------------------------
 Training is done.
 Model trained and stored at feedforwardnet.pth
+<<<<<<< HEAD
 
 # Step3:
 Inference:
@@ -230,3 +232,6 @@ if __name__=="__main__":
 ```python
 Predicted: '7', expected: '7'
 ```
+=======
+```
+>>>>>>> 59f47171ea7ca05f80c73d82921f7cfb4a3c4957
